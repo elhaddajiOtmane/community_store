@@ -4634,9 +4634,10 @@ lru-cache@^5.1.1:
   dependencies:
     yallist "^3.0.2"
 
-magnific-popup@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.npmjs.org/magnific-popup/-/magnific-popup-1.1.0.tgz"
+magnific-popup@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/magnific-popup/-/magnific-popup-1.2.0.tgz#333fcb56c0cd2ab3935340acca4ac9d8c6412e0d"
+  integrity sha512-vkRTVPhQwUgmndX1086k4kMorkzf1XIjBhyL4eIiV8SAjUJQuAdgQEFtMEwbHRFhHOfXe+vcEkRKYLjRAFzMwg==
 
 make-dir@^2.0.0:
   version "2.1.0"
