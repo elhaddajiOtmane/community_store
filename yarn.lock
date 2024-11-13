@@ -6676,10 +6676,10 @@ svgo@^1.0.0:
     unquote "~1.1.1"
     util.promisify "~1.0.0"
 
-sysend@^1.17.4:
-  version "1.17.4"
-  resolved "https://registry.yarnpkg.com/sysend/-/sysend-1.17.4.tgz#5867b65808a41abda0c6e022420b167a65a81c71"
-  integrity sha512-Z1uwOpQJ8/RtvJTWQNk/ir8fHfwnNKVKIu1im6t/60I6WW5/K75zg9NKVYdep4KGWwBdn0kc1fuRocCptHms4w==
+sysend@^1.17.5:
+  version "1.17.5"
+  resolved "https://registry.yarnpkg.com/sysend/-/sysend-1.17.5.tgz#7bba2ccb75532dd160651f9ba2008526a9990b01"
+  integrity sha512-fI9Gx2Woy2dTlIEbtDv7JJ9+2S705NG1eRfik2SPZT+7jZRnEfi6DbyJ1Yrb3ooJQOTv+DhvhmVXwVSQe5KZ+A==
 
 tapable@^1.0.0, tapable@^1.1.3:
   version "1.1.3"
